@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javierdeveloping
 - 👀 I’m interested in ... blockchain projects, DeFi ones also.
-- 🌱 I’m currently learning ... solidity, web3, react, etc.
+- 🌱 I’m currently learning ... solidity, web3, react, etc. who is not learning every day in IT world?
 
 
 <!---
